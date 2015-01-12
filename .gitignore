@@ -15,4 +15,6 @@
 # Ignore all files that end with a ~.
 # Backup file for gedit.
 **.*~
+.*~
+*~
 
